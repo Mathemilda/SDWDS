@@ -16,7 +16,7 @@ NN_made_simple.html is an explanation of neural networks without brain neurons, 
 
 PairWisePlotting.html is about plotting in Python using seaborn package, by Vaidehi Iyer.
 
-SQL_Data_Wrangling.pdf is about Data Wrangling software for SQL developers by Phil . Regretfully a presented practical show of software applications is not on the slides.
+SQL_Data_Wrangling.pdf is about Data Wrangling software for SQL developers by Phil Robinson. Regretfully a presented practical show of software applications is not on the slides, and it was the most valuable part.
 
 Visualization_Bad&Good&Best.pptx is Brenna Craft's presentation about data visualization principals.
 
